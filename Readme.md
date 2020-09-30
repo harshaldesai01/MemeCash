@@ -32,6 +32,10 @@ The project can be roughly divided into three sections:
 
 - [ ] Some basic Git knowledge.
 
+- [ ] Python scripts for anything related to the deep learning part.
+
+- [ ] Jupyter Notebooks can be used for experimentations.
+
   
 
 ## Guidelines
